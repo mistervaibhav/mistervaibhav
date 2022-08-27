@@ -1,11 +1,11 @@
-name: Generate Snake
+name: Generate Snake Animation
 on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
   workflow_dispatch:
 jobs:
   build:
-    name: Jobs to update datas
+    name: Jobs to update snake animation on profile readme
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
