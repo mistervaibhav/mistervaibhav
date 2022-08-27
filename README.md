@@ -1,6 +1,9 @@
 <h1 align="left">Hi 👋, I'm Vaibhav Singh</h1>
 <h3 align="left">A software engineer</h3>
 
+---
+[![](https://visitcount.itsvg.in/api?id=mistervaibhav&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaibhavsinghh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mistervaibhav) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vaibhavsinghhhh) 
@@ -18,8 +21,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=mistervaibhav&icon=0&color=0)](https://visitcount.itsvg.in)
+
