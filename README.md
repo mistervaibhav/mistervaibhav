@@ -23,7 +23,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=mistervaibhav&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## My Contributions chart
+## 📈 Contributions
 ![Snake animation](https://github.com/mistervaibhav/mistervaibhav/blob/output/github-contribution-grid-snake.svg)
 
 ### ✍️ Random Dev Quote
