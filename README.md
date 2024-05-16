@@ -26,7 +26,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaibhavsinghh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mistervaibhav) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vaibhavsinghhhh)
 
 ## Thank you for visiting my Github profile
-![Snake animation](https://github.com/mistervaibhav/mistervaibhav/blob/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/mistervaibhav/mistervaibhav/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/mistervaibhav/mistervaibhav/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ---
 
